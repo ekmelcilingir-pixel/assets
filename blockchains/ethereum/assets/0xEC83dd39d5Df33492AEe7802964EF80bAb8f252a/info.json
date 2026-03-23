@@ -1,0 +1,11 @@
+{
+  "name": "Nexus Token",
+  "symbol": "NXS",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "A general-purpose ERC-20 token enabling universal value transfer across digital economies.",
+  "website": "https://nxs-token.netlify.app",
+  "explorer": "https://etherscan.io/token/0xEC83dd39d5Df33492AEe7802964EF80bAb8f252a",
+  "status": "active",
+  "id": "0xEC83dd39d5Df33492AEe7802964EF80bAb8f252a"
+}
